@@ -1,0 +1,31 @@
+.mainPage2{
+    /* background-image: url("img2.jpg");
+    /* background-size: 1920px 100%; */
+    /* background-repeat: no-repeat;
+    background-size: contain; */ 
+    /* background-color: #EEF36A; */
+    background-color: #C4F5FC;
+    color: black;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    /* margin-top: 10%; */
+    /* justify-content: center; */
+     font-family: cursive; 
+
+    /* background-color: black; */
+    /* color: aqua; */
+    /* width: 100%;
+    height: 100%; */
+    height: 100vh;
+    width: 100%;
+}
+/* .mainPage2 > p {
+    margin-top: 10%;
+} */
+.first-main-text{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
